@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="restNameSize">20dp</dimen>
+    <dimen name="restPhoneNumSize">15dp</dimen>
+    <dimen name="restAddrSize">13dp</dimen>
+    <dimen name="restNameWidth">80dp</dimen>
+    <dimen name="restAddrWidth">200dp</dimen>
+</resources>

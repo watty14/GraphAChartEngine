@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, GraphAChartEngineActivity!</string>
+    <string name="app_name">YORI</string>
+    <string name="search_edit_text">Search..</string>
+    <string name="search_Button">SEARCH</string>
+    <string name="Category1_Button">Category1</string>
+    <string name="Category2_Button">Category2</string>
+    <string name="Category3_Button">Category3</string>
+    <string name="title_activity_main">Search</string>
+    <string name="title_activity_searchlist">SearchList</string>
+    <string name="title_activity_recommandation">Recommandation</string>
+    <string name="recommandation">Recommandation</string>
+    <string name="result">Result</string>
+    <string name="action_refresh">Refresh Icon</string>
+    <string name="action_new">New Icon</string>
+    <string name="dropdown"></string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_restaurantinformation">Restaurant Information</string>
+    <string name="areYouSure">Are you sure</string>
+    <string name="OK">OK</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="address">Address</string>
+    <string name="hours">Hours</string>
+    <string name="preferences_table">preferences_table</string>
+    <string name="preferences_restaurantname">preferences_restaurantname</string>
+    <string name="preferences_phonenumber">preferences_phonenumber</string>
+    <string name="phonenumber">Phone Number</string>
+    
+
+</resources>
